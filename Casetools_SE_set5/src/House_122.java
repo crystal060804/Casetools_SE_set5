@@ -16,6 +16,12 @@ public class House_122 {
 			return Owner;
 		}
 		
+
+		String getColor()
+		{
+			return color;
+		}
+		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
